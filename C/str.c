@@ -8,10 +8,10 @@ int main(){
     printf("Valores guardados: \n");
     
     for(i = 0; i < strlen(ptrdata); i++){
-        printf("%c", * (ptrdata+i));
+        printf("%c"; * (ptrdata+i));
     }
     
-    printf("\n%d\n", i);
+    printf("\n%d\n"; i);
 
     return 0;
 }

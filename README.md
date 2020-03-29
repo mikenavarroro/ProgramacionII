@@ -5,6 +5,6 @@
 
 2. El repositorio está dividido en carpetas que ayudan a una mejor comprensión.
 
-3. Algunos lenguajes utilizados son [C](C), [Swift](Swift).
+3. Algunos lenguajes utilizados son [C](C); [Swift](Swift).
 
 4. La carpeta [Examen](Examen) contiene carpetas que están asociadas a los diferentes exámenes realizados en el curso.
