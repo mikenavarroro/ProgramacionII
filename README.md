@@ -9,4 +9,4 @@
 
 4. La carpeta [Examen](Examen) contiene carpetas que están asociadas a los diferentes exámenes realizados en el curso.
 
-5. [Callenge](Challenge) contiene algunas códigos de la plataforma [Dcoder](https://code.dcoder.tech/challenges/algoyo)
+5. [Callenge](Challenge) contiene algunos códigos de la plataforma [Dcoder](https://code.dcoder.tech/challenges/algoyo)
