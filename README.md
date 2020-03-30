@@ -5,8 +5,8 @@
 
 2. El repositorio está dividido en carpetas que ayudan a una mejor comprensión.
 
-3. Algunos lenguajes utilizados son [C](C); [Swift](Swift) y Python.
+3. Algunos lenguajes utilizados son [C](C), [Swift](Swift) y Python.
 
 4. La carpeta [Examen](Examen) contiene carpetas que están asociadas a los diferentes exámenes realizados en el curso.
 
-5. [Callenge](Challenge) contiene algunos códigos de la plataforma [Dcoder](https://code.dcoder.tech/challenges/algoyo)
+5. [Callenge](Challenge) contiene algunos códigos de la plataforma [Dcoder](https://code.dcoder.tech/challenges/algoyo).
