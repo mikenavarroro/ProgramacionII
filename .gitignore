@@ -7,6 +7,8 @@ C/07-Apuntador
 C/str
 C/punteros_dobles
 C/desplazamiento
+C/cuadrado
+C/funcionesPunteros
 Examen/Examen_1/Complex
 Examen/Examen_1/FuncionesPunteros
 Examen/Examen_1/Mes
@@ -19,3 +21,5 @@ Challenge/Intercambio
 Challenge/list
 Challenge/minmay
 Challenge/numbers
+Challenge/sort
+Challenge/specialarray
