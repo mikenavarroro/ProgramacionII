@@ -1,6 +1,5 @@
 n, r = input().split()
 n, r = int(n), int(r)
-resultado = 0
 
 def factorial(num):
     if num <= 1:
