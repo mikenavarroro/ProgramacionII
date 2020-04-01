@@ -10,9 +10,4 @@ def factorial(num):
 
 P = lambda n,r: factorial(n)//(factorial(n-r))
 
-sgn = 1
-for _ in range(r, 0, -1):
-    resultado += sgn * P(n, r)
-    sgn *= -1
-
-print(resultado)
+print(P(n, r))
