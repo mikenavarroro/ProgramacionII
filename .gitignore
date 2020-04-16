@@ -1,3 +1,4 @@
+.gitignore
 C/01-HolaMundo
 C/02-Tablas
 C/03-Datos
@@ -11,6 +12,9 @@ C/desplazamiento
 C/cuadrado
 C/funcionesPunteros
 C/malloc
+C/archivosexternos
+C/archivoexterno
+C/*.txt
 Examen/Examen_1/Complex
 Examen/Examen_1/FuncionesPunteros
 Examen/Examen_1/Mes
