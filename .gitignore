@@ -1,4 +1,3 @@
-.gitignore
 C/01-HolaMundo
 C/02-Tablas
 C/03-Datos
@@ -15,11 +14,16 @@ C/malloc
 C/archivosexternos
 C/archivoexterno
 C/*.txt
+C/bit
 Examen/Examen_1/Complex
 Examen/Examen_1/FuncionesPunteros
 Examen/Examen_1/Mes
 Examen/Examen_1/Prueba
 Examen/Examen_1/Todo
+Examen/Examen_2/*.txt
+Examen/Examen_2/alumnos
+Examen/Examen_2/file
+Examen/Examen_2/exfile
 Challenge/abc
 Challenge/ascii
 Challenge/ctf
