@@ -93,7 +93,7 @@ solución.
 ### Elaborado en
 ---
 * Windows 10.
-* Actualizando actualmente en Linux Ubuntu 20.04 LTS
+* Actualizando en Linux Ubuntu 20.04 LTS
 
 ### Autor(es)
 ---
