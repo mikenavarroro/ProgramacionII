@@ -11,7 +11,7 @@ Para poder usar el software necesitas alguna función en términos de x. En cual
 ***f(x) = x² - 3***
 
 Dependiendo el método elegido, te pedirá dos puntos (a y b)
-que es un intervalo de dicha función, o solo un punto (x)
+que es un intervalo de dicha función, o solo un punto (a)
 que es una aproximación a la solución de esa ecuación. Ej.
 
 ***a = 0***
@@ -19,7 +19,7 @@ que es una aproximación a la solución de esa ecuación. Ej.
 ***b = 1***
 
 Y un error, que es la diferencia que quieres entre la
-solución real y la solución que te dará el sofware.
+solución real y la solución que te dará el software.
 Debe ser menor a 1. Ej.
 
 ***error = 10-⁶***
