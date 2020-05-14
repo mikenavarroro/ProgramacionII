@@ -29,7 +29,7 @@ Implementando todo eso en el software se vería algo así:
 ![Funcion](images/funcion.png)
 
 Como se puede notar en la imagen, necesitamos algunos 
-caracteres especiales para su funcionamiento adecauado que se mostrarán a continuación.
+caracteres especiales para su funcionamiento adecuado que se mostrarán a continuación.
 
 | Función/Operador | Símbolo | Ejemplo de uso | Significado |
 |------------------|---------|----------------|------------:|
@@ -82,7 +82,7 @@ solución.
      ~$ sudo apt install python3-tk
      ```
 
-3. Ejecuta en archivo *Principal.java*
+3. Compila y ejecuta el archivo *Principal.java*
 
 ### Elaborado para
 ---
@@ -97,5 +97,5 @@ solución.
 
 ### Autor(es)
 ---
-* [Miguel Angel Navarro Rodríguez](https://twitter.com/MikeNavarroR)
+* [Miguel Ángel Navarro Rodríguez](https://twitter.com/MikeNavarroR)
 * [Mauricio Lopez Servín](https://twitter.com/mauIntensivDrip)
