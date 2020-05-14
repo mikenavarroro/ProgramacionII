@@ -29,7 +29,7 @@ Implementando todo eso en el software se vería algo así:
 ![Funcion](images/funcion.png)
 
 Como se puede notar en la imagen, necesitamos algunos 
-caracteres especiales para su funcionamiento adecuado que se mostrarán a continuación.
+caracteres especiales para su funcionamiento, que se mostrarán a continuación.
 
 | Función/Operador | Símbolo | Ejemplo de uso | Significado |
 |------------------|---------|----------------|------------:|
@@ -57,7 +57,7 @@ solución.
 * [Python](python.org)
 * [Java](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
 
-1. Clona el repositorio https://github.com/mikenavarroro/MetodosNumericos.git en tu computadra.
+1. Clona el repositorio https://github.com/mikenavarroro/MetodosNumericos.git en tu computadora.
 2. Instala las librerías de python
     * Numpy
     * Sympy
