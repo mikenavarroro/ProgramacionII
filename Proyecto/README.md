@@ -24,7 +24,7 @@ Debe ser menor a 1. Ej.
 
 ***error = 10-⁶***
 
-Implementando todo eso en el software se vería algo así:
+Implementando lo anterior en el software se verá así:
 
 ![Funcion](images/funcion.png)
 
