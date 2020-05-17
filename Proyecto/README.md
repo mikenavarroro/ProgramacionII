@@ -31,16 +31,16 @@ Implementando lo anterior en el software se verá así:
 Como se puede notar en la imagen, necesitamos algunos 
 caracteres especiales para su funcionamiento, que se mostrarán a continuación.
 
-| Función/Operador | Símbolo | Ejemplo de uso | Significado |
-|------------------|---------|----------------|------------:|
-|    Potencia      |  **     |   x**2         |     x²      |
-|    Producto      |   *     |   3*x          |     3x      |
-| Producto y potencia|  * ** |   3*x**2       |     3x²     |
-| Seno             |  sin()  |    sin(x)      |  sen(x)     |
-| Coseno           |  cos()  |    cos(x)      |   cos(x)    |
-| Tangente         |  tan()  |    tan(x)      |   tan(x)    |
-| Logaritmo Natural|  log()  |    log(x)      |   ln(x)     |
-| Logaritmo base 10|  log10()|    log10(x)    |   log(x)    |
+| Función/Operador   | Símbolo | Ejemplo de uso | Significado |
+|--------------------|---------|----------------|------------:|
+|    Potencia        |  **     |   x**2         |     x²      |
+|    Producto        |   *     |   3*x          |     3x      |
+| Producto y potencia|  * **   |   3*x**2       |     3x²     |
+|       Seno         |  sin()  |    sin(x)      |  sen(x)     |
+|      Coseno        |  cos()  |    cos(x)      |   cos(x)    |
+|     Tangente       |  tan()  |    tan(x)      |   tan(x)    |
+| Logaritmo Natural  |  log()  |    log(x)      |   ln(x)     |
+| Logaritmo base 10  |  log10()|    log10(x)    |   log(x)    |
 
 Para ejecutar el método, pulsa el botón *tabular* y aparecerá
 una nueva ventana con las iteraciones para llegar a la
